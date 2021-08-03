@@ -15,3 +15,4 @@ test('finds the first duplicate when there is only one duplicate', () => {
 test('finds the first duplicate in an Array containing multiple duplicates', () => {
   expect(findFirstDuplicate([1, 2, 3, 3, 2, 1])).toBe(3);
 });
+
