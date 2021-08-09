@@ -32,7 +32,7 @@ if (require.main === module) {
 module.exports = findFirstDuplicate;
 
 // Please add your pseudocode to this file
-/******************************************************************
+/*****************************************************************
  * initialize an empty set called uniques
  * 
  * iterate through the input array:
